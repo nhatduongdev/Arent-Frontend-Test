@@ -18,7 +18,6 @@ A modern web application to track your health, nutrition, and fitness exercises.
    - Login with email and password
    - Protected pages with authentication
    - User session management (Authentication Context)
-   - Username/Password : admin@test.com / 123456
 
 
 ### 2. **Home Page**
@@ -217,8 +216,8 @@ src/
 ## 🔐 Authentication & Login
 
 ### Demo Login Credentials:
-- **Email**: user@example.com
-- **Password**: password123
+- **Email**: admin@test.com
+- **Password**: 123456
 
 These credentials are stored in `src/data/loginData.ts` for development purposes.
 
